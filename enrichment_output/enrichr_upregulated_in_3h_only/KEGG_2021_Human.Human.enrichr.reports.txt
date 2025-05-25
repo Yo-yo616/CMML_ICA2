@@ -1,0 +1,28 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Complement and coagulation cascades	2/85	1.145981e-03	3.094150e-02	0	0	4.796386e+01	3.247870e+02	C3;THBD
+KEGG_2021_Human	RNA polymerase	1/31	1.844714e-02	1.236348e-01	0	0	6.047879e+01	2.414825e+02	POLR3K
+KEGG_2021_Human	Various types of N-glycan biosynthesis	1/39	2.315680e-02	1.236348e-01	0	0	4.772727e+01	1.797155e+02	DAD1
+KEGG_2021_Human	Arginine and proline metabolism	1/50	2.959876e-02	1.236348e-01	0	0	3.699258e+01	1.302147e+02	CKB
+KEGG_2021_Human	N-Glycan biosynthesis	1/50	2.959876e-02	1.236348e-01	0	0	3.699258e+01	1.302147e+02	DAD1
+KEGG_2021_Human	Legionellosis	1/57	3.367790e-02	1.236348e-01	0	0	3.235714e+01	1.097203e+02	C3
+KEGG_2021_Human	Cytosolic DNA-sensing pathway	1/63	3.716178e-02	1.236348e-01	0	0	2.921701e+01	9.619626e+01	POLR3K
+KEGG_2021_Human	Pertussis	1/76	4.467073e-02	1.236348e-01	0	0	2.413697e+01	7.502824e+01	C3
+KEGG_2021_Human	Leishmaniasis	1/77	4.524612e-02	1.236348e-01	0	0	2.381818e+01	7.373248e+01	C3
+KEGG_2021_Human	Taste transduction	1/86	5.041028e-02	1.236348e-01	0	0	2.128663e+01	6.359509e+01	ENTPD2
+KEGG_2021_Human	Staphylococcus aureus infection	1/95	5.554883e-02	1.236348e-01	0	0	1.923985e+01	5.561263e+01	C3
+KEGG_2021_Human	AGE-RAGE signaling pathway in diabetic complications	1/100	5.839256e-02	1.236348e-01	0	0	1.826354e+01	5.187882e+01	THBD
+KEGG_2021_Human	Chagas disease	1/102	5.952785e-02	1.236348e-01	0	0	1.790009e+01	5.050172e+01	C3
+KEGG_2021_Human	Purine metabolism	1/129	7.473197e-02	1.355159e-01	0	0	1.410511e+01	3.658651e+01	ENTPD2
+KEGG_2021_Human	Systemic lupus erythematosus	1/135	7.807991e-02	1.355159e-01	0	0	1.346947e+01	3.434745e+01	C3
+KEGG_2021_Human	Fluid shear stress and atherosclerosis	1/139	8.030570e-02	1.355159e-01	0	0	1.307642e+01	3.297761e+01	THBD
+KEGG_2021_Human	Phagosome	1/152	8.750555e-02	1.389794e-01	0	0	1.194281e+01	2.909331e+01	C3
+KEGG_2021_Human	Protein processing in endoplasmic reticulum	1/171	9.793550e-02	1.412687e-01	0	0	1.059786e+01	2.462356e+01	DAD1
+KEGG_2021_Human	Tuberculosis	1/180	1.028378e-01	1.412687e-01	0	0	1.006044e+01	2.288350e+01	C3
+KEGG_2021_Human	Neutrophil extracellular trap formation	1/189	1.077156e-01	1.412687e-01	0	0	9.574468e+00	2.133441e+01	C3
+KEGG_2021_Human	Kaposi sarcoma-associated herpesvirus infection	1/193	1.098757e-01	1.412687e-01	0	0	9.373106e+00	2.069962e+01	C3
+KEGG_2021_Human	Viral carcinogenesis	1/203	1.152550e-01	1.414493e-01	0	0	8.904590e+00	1.923933e+01	C3
+KEGG_2021_Human	Coronavirus disease	1/232	1.306870e-01	1.470228e-01	0	0	7.775285e+00	1.582232e+01	C3
+KEGG_2021_Human	Thermogenesis	1/232	1.306870e-01	1.470228e-01	0	0	7.775285e+00	1.582232e+01	COA3
+KEGG_2021_Human	Shigellosis	1/246	1.380482e-01	1.490921e-01	0	0	7.325788e+00	1.450618e+01	C3
+KEGG_2021_Human	Neuroactive ligand-receptor interaction	1/341	1.865095e-01	1.936830e-01	0	0	5.253476e+00	8.822020e+00	C3
+KEGG_2021_Human	Herpes simplex virus 1 infection	1/498	2.611547e-01	2.611547e-01	0	0	3.565209e+00	4.786802e+00	C3

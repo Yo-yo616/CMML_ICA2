@@ -1,0 +1,12 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Steroid biosynthesis	1/20	4.990441e-03	4.897280e-02	0	0	2.628421e+02	1.393124e+03	CYP24A1
+KEGG_2021_Human	Glutathione metabolism	1/57	1.417029e-02	4.897280e-02	0	0	8.901339e+01	3.788951e+02	GSTM5
+KEGG_2021_Human	Metabolism of xenobiotics by cytochrome P450	1/76	1.885787e-02	4.897280e-02	0	0	6.640000e+01	2.636628e+02	GSTM5
+KEGG_2021_Human	Protein digestion and absorption	1/103	2.548849e-02	4.897280e-02	0	0	4.875735e+01	1.789165e+02	COL5A2
+KEGG_2021_Human	Parathyroid hormone synthesis, secretion and action	1/106	2.622301e-02	4.897280e-02	0	0	4.735714e+01	1.724330e+02	CYP24A1
+KEGG_2021_Human	Drug metabolism	1/108	2.671244e-02	4.897280e-02	0	0	4.646729e+01	1.683336e+02	GSTM5
+KEGG_2021_Human	Fluid shear stress and atherosclerosis	1/139	3.427350e-02	5.385836e-02	0	0	3.597283e+01	1.213501e+02	GSTM5
+KEGG_2021_Human	Hepatocellular carcinoma	1/168	4.130415e-02	5.679320e-02	0	0	2.968263e+01	9.459239e+01	GSTM5
+KEGG_2021_Human	Chemical carcinogenesis	1/239	5.834438e-02	7.130980e-02	0	0	2.075315e+01	5.896784e+01	GSTM5
+KEGG_2021_Human	MicroRNAs in cancer	1/310	7.514145e-02	8.265560e-02	0	0	1.592718e+01	4.122565e+01	CYP24A1
+KEGG_2021_Human	Pathways in cancer	1/531	1.258972e-01	1.258972e-01	0	0	9.181604e+00	1.902694e+01	GSTM5
