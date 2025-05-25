@@ -10,3 +10,34 @@ https://mailustceducn-my.sharepoint.com/:f:/g/personal/hyl2016_mail_ustc_edu_cn/
 https://pan.baidu.com/s/183jLROAUuNfVKCeBY4B4DQ
 
 download code: mkjj
+
+Important files for this project:
+
+(1) scMVP training
+
+scMVP/demos/scMVP_tutorial.ipynb: scMVP training, cell clustering and downstream analysis file preparation
+
+scMVP/demos/Differential_analysis.ipynb: downstream analysis for the latent embedding of scMVP
+
+(2) Benchmarking
+
+Preparing for benchmarking: 
+
+scMVP/demos/scMVP_run.ipynb
+
+benchmarking/Schema_benchmarking.ipynb
+
+benchmarking/seurat_benchmarking.R
+
+
+Metric calculation:
+
+benchmarking/metric_calculate.ipynb
+
+(environment setting: benchmarking/metrictest.yaml)
+
+
+
+
+
+
